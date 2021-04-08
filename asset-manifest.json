@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/tv-directory/static/css/main.4cb96307.chunk.css",
-    "main.js": "/tv-directory/static/js/main.9f207423.chunk.js",
-    "main.js.map": "/tv-directory/static/js/main.9f207423.chunk.js.map",
+    "main.js": "/tv-directory/static/js/main.07674809.chunk.js",
+    "main.js.map": "/tv-directory/static/js/main.07674809.chunk.js.map",
     "runtime-main.js": "/tv-directory/static/js/runtime-main.234172d8.js",
     "runtime-main.js.map": "/tv-directory/static/js/runtime-main.234172d8.js.map",
-    "static/js/2.ac3d09ab.chunk.js": "/tv-directory/static/js/2.ac3d09ab.chunk.js",
-    "static/js/2.ac3d09ab.chunk.js.map": "/tv-directory/static/js/2.ac3d09ab.chunk.js.map",
+    "static/js/2.b1791129.chunk.js": "/tv-directory/static/js/2.b1791129.chunk.js",
+    "static/js/2.b1791129.chunk.js.map": "/tv-directory/static/js/2.b1791129.chunk.js.map",
     "static/js/3.34e5bcb4.chunk.js": "/tv-directory/static/js/3.34e5bcb4.chunk.js",
     "static/js/3.34e5bcb4.chunk.js.map": "/tv-directory/static/js/3.34e5bcb4.chunk.js.map",
     "index.html": "/tv-directory/index.html",
     "static/css/main.4cb96307.chunk.css.map": "/tv-directory/static/css/main.4cb96307.chunk.css.map",
-    "static/js/2.ac3d09ab.chunk.js.LICENSE.txt": "/tv-directory/static/js/2.ac3d09ab.chunk.js.LICENSE.txt"
+    "static/js/2.b1791129.chunk.js.LICENSE.txt": "/tv-directory/static/js/2.b1791129.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.234172d8.js",
-    "static/js/2.ac3d09ab.chunk.js",
+    "static/js/2.b1791129.chunk.js",
     "static/css/main.4cb96307.chunk.css",
-    "static/js/main.9f207423.chunk.js"
+    "static/js/main.07674809.chunk.js"
   ]
 }
