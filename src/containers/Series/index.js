@@ -21,7 +21,7 @@ class Series extends Component {
     const { series, seriesName, isFetching } = this.state;
     return (
       <div>
-        <Intro message="Here you can find all of your most loved series" />
+        <Intro message="Find the TV series you love." />
         <div>
           <input
             value={seriesName}
@@ -30,7 +30,7 @@ class Series extends Component {
           />
         </div>
         {!isFetching && series.length === 0 && seriesName.trim() === "" && (
-          <p>Please enter series name into the input.</p>
+          <p>Please enter a TV series name to search.</p>
         )}
         {!isFetching && series.length === 0 && seriesName.trim() !== "" && (
           <p>No TV series have been found with this name.</p>
